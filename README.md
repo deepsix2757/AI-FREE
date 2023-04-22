@@ -1,2 +1,2 @@
 # AI-FREE
-Notation of copyrighted works that do not use AI contents.
+Notation of contents that do not use AI.
