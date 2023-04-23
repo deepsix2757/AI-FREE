@@ -1,6 +1,13 @@
-# AI-FREE
+<H2>AI-FREE</H2>
 Notation of contents that do not use AI.
 
-
-[https://github.com/deepsix2757/AI-FREE/blob/main/AI-FREE_Large.JPG?raw=true](https://github.com/deepsix2757/AI-FREE/blob/main/AI-FREE_Large.JPG?raw=true)
-[https://github.com/deepsix2757/AI-FREE/blob/main/AI-FREE_Small.JPG?raw=true](https://github.com/deepsix2757/AI-FREE/blob/main/AI-FREE_Small.JPG?raw=true)
+<p>
+1. Small logo : https://github.com/deepsix2757/AI-FREE/blob/main/AI-FREE_Small.JPG?raw=true
+<br>
+<img src='https://github.com/deepsix2757/AI-FREE/blob/main/AI-FREE_Small.JPG?raw=true'>
+</p>
+<p>
+2. Large logo : https://github.com/deepsix2757/AI-FREE/blob/main/AI-FREE_Large.JPG?raw=true
+<br>
+<img src='https://github.com/deepsix2757/AI-FREE/blob/main/AI-FREE_Large.JPG?raw=true'>
+</p>
