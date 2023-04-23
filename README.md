@@ -1,5 +1,5 @@
 <H2>AI-FREE</H2>
-Notation of contents that do not use AI.
+<p>Notation of contents that do not use AI.</p>
 
 <p>
 1. Small logo : https://github.com/deepsix2757/AI-FREE/blob/main/AI-FREE_Small.JPG?raw=true
